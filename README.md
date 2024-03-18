@@ -1,4 +1,4 @@
-# DJnago_portfolio
+# DJango_portfolio
 Proyecto curso web
 
 ![text](image.png)
